@@ -2,7 +2,7 @@
 
 **Objetivo:**
 
-Criar um algoritmo de de clusterização para separar os vinhos de uma mesma região da Itália
+Criar um algoritmo de clusterização para separar os vinhos de uma mesma região da Itália
 
 **Atributos:** 
 - Alcohol
